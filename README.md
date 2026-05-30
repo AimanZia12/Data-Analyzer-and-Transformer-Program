@@ -96,3 +96,18 @@ Main Menu
 
 7. Exit Program - User exit the program.
 
+<img width="825" height="299" alt="image" src="https://github.com/user-attachments/assets/434ffd13-4fd2-40ae-b0b2-4040a18818da" />
+<img width="711" height="344" alt="Screenshot 2026-05-30 152920" src="https://github.com/user-attachments/assets/af9ccf12-87f9-4545-9c72-8f05e5515afb" />
+<img width="901" height="345" alt="Screenshot 2026-05-30 152940" src="https://github.com/user-attachments/assets/4df9da5a-e6b5-4edd-9d1e-4377f4400300" />
+<img width="718" height="293" alt="Screenshot 2026-05-30 153003" src="https://github.com/user-attachments/assets/ed4a5134-fb3e-4042-985d-6eb0775b7a60" />
+<img width="726" height="306" alt="Screenshot 2026-05-30 153026" src="https://github.com/user-attachments/assets/74b5dcf2-7753-4b27-ad4c-6ef4a038ee56" />
+<img width="770" height="313" alt="Screenshot 2026-05-30 153043" src="https://github.com/user-attachments/assets/5cf91070-3947-4e03-8ff3-5fe9b484dc0a" />
+<img width="825" height="299" alt="Screenshot 2026-05-30 153058" src="https://github.com/user-attachments/assets/6a5d52fd-2536-4697-b9a3-87ce87b02568" />
+
+
+
+
+
+
+
+
